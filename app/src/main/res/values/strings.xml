@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="app_name1">ScorekeeperApp</string>
+    <string name="team1">Team A</string>
+    <string name="team2">Team B</string>
+    <string name="b1">Start</string>
+    <string name="b2">Pause</string>
+    <string name="b3">Reset Timer</string>
+    <string name="b4">Save Lap</string>
+    <string name="p3">+3</string>
+    <string name="p2">+2</string>
+    <string name="ft">Free Throw</string>
+    <string name="b5">Reset</string>
+    <string name="time"></string>
+    <string name="zero">0</string>
+
+</resources>
